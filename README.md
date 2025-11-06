@@ -1,4 +1,5 @@
----
+> [!CAUTION]
+> v1.5.0よりマウス入力及びドックモードでのプレイが必須です。もしこれらを利用出来ない場合はプロコン入力だけで完結できる[v1.4.0](https://github.com/HINATIR/LunarSE-v2/releases/tag/1.4.0)を利用してください。
 
 # ✨ **LunarSE v2**
 
@@ -8,9 +9,6 @@
 **pchtxtに依存しない簡単導入**が可能なmodへと進化しました！
 
 ---
-
-> [!CAUTION]
-> プロコントローラー入力以外は現時点ではサポートしていません。
 
 ## 🌟 機能
 
@@ -97,10 +95,6 @@ NBTコマンド - 持っているアイテムに効果付与
 
 ---
 
-# Thanks
-[libhakkun](https://github.com/fruityloops1/LibHakkun)  
-[MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE)  
-
 # /nbtコマンド用id
 
 | ID | エンチャント名 |
@@ -172,3 +166,12 @@ NBTコマンド - 持っているアイテムに効果付与
 | **3** | 移動速度上昇 |
 | **4** | 攻撃力上昇 |
 | **8** | 防護 |
+
+---
+
+# Lisence
+Exefs Hook [libhakkun](https://github.com/fruityloops1/LibHakkun)  
+MinecraftSE Decompile [MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE)  
+Client GUI [ImGui](https://github.com/ocornut/imgui/blob/master/LICENSE.txt)
+UI Icon[FontAwesome](https://fontawesome.com/license/free) + [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[NotoSansJPfont](https://fonts.google.com/noto/specimen/Noto+Sans+JP/license)
