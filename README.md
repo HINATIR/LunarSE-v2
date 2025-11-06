@@ -172,6 +172,7 @@ NBTコマンド - 持っているアイテムに効果付与
 # Lisence
 Exefs Hook [libhakkun](https://github.com/fruityloops1/LibHakkun)  
 MinecraftSE Decompile [MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE)  
-Client GUI [ImGui](https://github.com/ocornut/imgui/blob/master/LICENSE.txt)
-UI Icon[FontAwesome](https://fontawesome.com/license/free) + [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-[NotoSansJPfont](https://fonts.google.com/noto/specimen/Noto+Sans+JP/license)
+Client GUI [ImGui](https://github.com/ocornut/imgui/blob/master/LICENSE.txt)  
+UI Icon[FontAwesome](https://fontawesome.com/license/free) + [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+[NotoSansJPfont](https://fonts.google.com/noto/specimen/Noto+Sans+JP/license)  
+  
