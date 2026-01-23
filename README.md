@@ -78,7 +78,7 @@ NBTコマンド - 持っているアイテムに効果付与
 ホットバー6スロット目: レギンスアイテム(任意)  
 ホットバー7スロット目: ブーツアイテム(任意)  
 ホットバー8スロット目: 初期状態で付与したいエフェクトのアイテム(任意)  
-`/spawn {スポーン間隔(tick)} {IsBaby} {NeverDespawn} {Health} {HandDropChance(%)} {ArmorDropChance(%)}`  
+`/spawn <スポーン範囲> <一度のスポーン数> <湧くために必要な最低距離> <周りの最大モブ数> <スポーン間隔(tick)> <IsBaby> <IsNeverDespawn> <HP> <HandDropChance(%)> <ArmorDropChance(%)>`  
 
 パーティクルコマンド - パーティクルスポナーを作成  
 ---
